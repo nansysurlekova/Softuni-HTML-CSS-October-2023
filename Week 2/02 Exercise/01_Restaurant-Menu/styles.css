@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Sentinel A', 'Sentinel B', 'Times New Roman', 'Times', serif;
+    line-height: 1.15;
+    font-weight: 400;
+    font: serif;
+    color: #747474;
+}
+
+span {
+    font-family: 'Graphik Semibold Web', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.46;
+    color: #5c5a5a;
+}
+
+p {
+    font-family: 'Graphik Semibold Web', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.46;
+    color: #5c5a5a;
+}

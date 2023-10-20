@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+
+ul {
+    background-color: #444;
+    align-items: center;
+    padding: 0px;
+    padding-left: 430px;
+    margin: 0px;
+    list-style: none;
+}
+
+li {
+    font-size: 24px;
+    color: white;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+    display: inline-block;
+}
