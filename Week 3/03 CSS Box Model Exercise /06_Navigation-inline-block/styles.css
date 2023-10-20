@@ -1,0 +1,68 @@
+h1 {
+    padding-bottom: 0.4em;
+}
+
+.site {
+    max-width: 90%;
+    margin: 4em auto;
+}
+
+.site-header {
+    position: relative;
+    padding: 1.5em 0;
+    line-height: 1;
+    border-bottom: 1px solid black;
+    margin-bottom: 1.5em;
+}
+
+.main-nav {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translateY(-30%);
+}
+
+.main-nav ul {
+    padding: 0;
+}
+
+.main-nav li {
+    display: block;
+    position: relative;
+    list-style: none outside;
+}
+
+.main-nav a {
+    display: block;
+    padding: 0.5em 0.8em;
+    color: rgb(5, 199, 189);
+    text-decoration: none;
+}
+
+.main-nav ul > li {
+    display: inline-block;
+    margin: 0 0.2em;
+}
+
+html {
+    font: 1em/1.5 Helvetica, sans-serif;
+}
+
+body,
+input,
+textarea {
+    font: inherit;
+}
+
+p,
+ul,
+ol {
+    padding-bottom: 1.5em;
+}
+
+.site-title {
+    text-transform: uppercase;
+    font-size: 2em;
+    font-weight: 700;
+    padding-bottom: 0;
+}
