@@ -1,0 +1,14 @@
+.main-nav ul{
+    display: flex;
+    
+
+}
+
+.main-nav li,
+.main-nav a {
+    display: block;
+    list-style: none;
+    text-decoration: none;
+    padding: 0.5em;
+}
+

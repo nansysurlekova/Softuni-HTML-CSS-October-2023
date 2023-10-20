@@ -1,0 +1,50 @@
+.section-columns .container {
+    padding: 2em;
+}
+
+.section-header {
+    text-align: center;
+    padding: 2em;
+}
+
+.section-columns .section-content {
+    display: flex;
+    gap: 2em;
+
+}
+
+.section-columns .section-content article {
+    flex: 1 1 30%;
+    text-align: center;
+}
+
+.section-features img{
+    width: 15%;
+    margin: 0 auto;
+}
+
+.section-features {
+    background: white;
+}
+
+.section-features p{
+    padding-bottom: 2em;
+}
+
+.section-coaches p{
+    padding-bottom: 2em;
+}
+
+.section-features h4{
+    color: rgb(131, 26, 26);
+    padding: 2em;
+}
+
+.section-coaches h5{
+    color: rgb(131, 26, 26);
+    padding-bottom: 2em;
+}
+
+.section-coaches h4{
+    padding-top: 1em;
+}
